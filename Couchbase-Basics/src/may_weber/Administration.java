@@ -1,6 +1,3 @@
-/**
- * 
- */
 package may_weber;
 
 import com.couchbase.client.java.Cluster;
